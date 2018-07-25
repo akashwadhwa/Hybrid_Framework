@@ -1,0 +1,16 @@
+07/24/2018 16:29:40 DEBUG akwadhwaLogger:70 - Hello
+07/24/2018 16:29:40 DEBUG akwadhwaLogger:71 - Properties loaded. Starting testing
+07/24/2018 16:29:40 DEBUG akwadhwaLogger:77 - Intialize Suite xlsx
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - Check out -- N
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - Links verification -- N
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - Login functionality -- N
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - My Account -- N
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - Sales pages -- N
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:83 - Search -- Y
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:88 - ******Executing the Suite******Search
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:92 - Search -- Y
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:96 - Executing the test case -> Search
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:102 - Iteration number 1
+07/24/2018 16:29:47 DEBUG akwadhwaLogger:144 - openBrowser
+07/24/2018 16:29:51 DEBUG akwadhwaLogger:34 - Opening browser
+07/24/2018 16:30:09 DEBUG akwadhwaLogger:152 - PASS
